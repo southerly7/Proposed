@@ -1,5 +1,5 @@
 # Overview
-This is the Pytorch implementation of "Enhancing ConvNeXt for Efficient Low-resolution Image Classification" and is being submitted to the journal name of [The Visual Computer]([[https://github.com](https://link.springer.com/journal/371)]).
+This is the Pytorch implementation of "Enhancing ConvNeXt for Efficient Low-resolution Image Classification" and is being submitted to the journal name of [The Visual Computer](https://link.springer.com/journal/371).
 # Requirements
 To use this project, you need to ensure the following requirements are installed.
 - Python >= 3.8
