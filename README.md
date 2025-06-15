@@ -1,5 +1,5 @@
 # Overview
-This is the Pytorch implementation of "Conv2NeXt: Reconsidering ConvNeXt Network Design for Image Recognition"
+This is the Pytorch implementation of "Enhancing ConvNeXt for Efficient Low-resolution Image Classification"
 # Requirements
 To use this project, you need to ensure the following requirements are installed.
 - Python >= 3.8
@@ -26,7 +26,7 @@ Download the Tiny-ImageNet classification dataset and structure the data as foll
 # Train
 ```
 python main.py \
---model conv2next_base --drop_path 0.1 \
+--model proposed_base --drop_path 0.1 \
 --data_set CIFAR10 --input_size 32 \
 --batch_size 64 --lr 4e-3 --update_freq 4 \
 --model_ema true --model_ema_eval true \
