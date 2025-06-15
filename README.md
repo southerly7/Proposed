@@ -34,5 +34,3 @@ python main.py \
 --output_dir /path/to/save_results \
 --log_dir /path/to/logs
 ```
-# checkpoints
-The checkpoints will be available in GoogleDrive soon.
